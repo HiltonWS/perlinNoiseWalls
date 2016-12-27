@@ -56,7 +56,7 @@ public class Builder : MonoBehaviour
 
             }
             //Utiliza a seed do perlin ou um randomico conforme setado em  createGrid
-            x += defaultNoise(n, chunkHeight);
+            x += defaultNoise(n, n);
 
             print(x);
 
@@ -74,7 +74,7 @@ public class Builder : MonoBehaviour
 
             }
             //Utiliza a seed do perlin ou um randomico conforme setado em  createGrid
-            y += defaultNoise(chunkWidth, n);
+            y += defaultNoise(n, n);
 
             if (y >= chunkHeight)
             {
