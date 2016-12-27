@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerlinNoiseWalls.Plugins", "PerlinNoiseWalls.Plugins.csproj", "{F8FA6FFE-FD20-9158-ECDE-45870449FA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerlinNoiseWalls", "PerlinNoiseWalls.csproj", "{C5EEB2C8-4D15-E2C2-4DB5-411F6D9518A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerlinNoiseWalls.Editor", "PerlinNoiseWalls.Editor.csproj", "{91E73A78-D635-E6E0-575C-80CB5F4CBFB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FA6FFE-FD20-9158-ECDE-45870449FA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FA6FFE-FD20-9158-ECDE-45870449FA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FA6FFE-FD20-9158-ECDE-45870449FA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FA6FFE-FD20-9158-ECDE-45870449FA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5EEB2C8-4D15-E2C2-4DB5-411F6D9518A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EEB2C8-4D15-E2C2-4DB5-411F6D9518A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EEB2C8-4D15-E2C2-4DB5-411F6D9518A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EEB2C8-4D15-E2C2-4DB5-411F6D9518A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E73A78-D635-E6E0-575C-80CB5F4CBFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E73A78-D635-E6E0-575C-80CB5F4CBFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E73A78-D635-E6E0-575C-80CB5F4CBFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E73A78-D635-E6E0-575C-80CB5F4CBFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
